@@ -1,2 +1,2 @@
-# duckonaboat.github.io
+# ducksonboats
 ducks on boats
